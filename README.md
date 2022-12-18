@@ -15,4 +15,6 @@ npx hardhat run scripts/deploy.js
 # Notes
 
 To deploy contract to Goerli:
-- npx hardhat run scripts/deploy.js --network goerli
+```shell
+npx hardhat run scripts/deploy.js --network goerli
+```
