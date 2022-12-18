@@ -12,7 +12,7 @@ npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
 
-# Notes
+## Notes
 
 To deploy contract to Goerli:
 ```shell
