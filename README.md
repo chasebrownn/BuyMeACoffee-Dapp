@@ -18,3 +18,12 @@ To deploy contract to Goerli:
 ```shell
 npx hardhat run scripts/deploy.js --network goerli
 ```
+To verify the contract on etherscan:
+```shell
+npx hardhat verify <ADDRESS> --network goerli
+```
+
+### Deployed at
+Goerli:
+0x7c501F5f0A23Dc39Ac43d4927ff9f7887A01869B
+0xd0A610E26732aA01960BE87598106240a93b6595
